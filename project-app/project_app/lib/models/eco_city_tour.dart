@@ -11,7 +11,11 @@ class EcoCityTour {
   /// Nombre de la ciudad asociada al tour.
   final String city;
   ///merge conflict prueba 
-
+  // segundo merge conflict bob esponja
+  // paw patrol
+  // kalamantus
+  // odumodublvck
+  // Left by Marek Hemmann
   final String pruebaMergeConflict; // trying it out 
 
   /// Lista de puntos de interés incluidos en el tour.
