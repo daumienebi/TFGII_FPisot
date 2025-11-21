@@ -13,7 +13,8 @@ class EcoCityTour {
   ///merge conflict prueba 
 
   final String pruebaMergeConflict; // trying it out 
-
+  ///second merge conflict 
+  ///patrulla canina
   /// Lista de puntos de interés incluidos en el tour.
   final List<PointOfInterest> pois;
 
