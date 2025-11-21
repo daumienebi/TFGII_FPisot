@@ -11,6 +11,8 @@ class EcoCityTour {
   /// Nombre de la ciudad asociada al tour.
   final String city;
 
+  final String pruebaMergeConflict; // trying it out 
+
   /// Lista de puntos de interés incluidos en el tour.
   final List<PointOfInterest> pois;
 
