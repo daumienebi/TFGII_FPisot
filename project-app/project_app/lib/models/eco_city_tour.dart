@@ -10,7 +10,7 @@ import 'package:project_app/models/point_of_interest.dart';
 class EcoCityTour {
   /// Nombre de la ciudad asociada al tour.
   final String city;
-
+  ///merge conflict prueba 
   /// Lista de puntos de interés incluidos en el tour.
   final List<PointOfInterest> pois;
 
